@@ -1,12 +1,12 @@
 <p>
   <a href="https://aus.social/@aureline" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/mail-white?style=for-the-badge&logo=mastodon&logoColor=black" style="border:0; outline:none;">
+    <img src="https://img.shields.io/badge/电邮-white?style=for-the-badge&logo=mastodon&logoColor=black" style="border:0; outline:none;">
   </a>
    <a href="https://steamcommunity.com/id/aurelln/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Steam-white?style=for-the-badge&logo=steam&logoColor=black" style="border:0; outline:none;">
+    <img src="https://img.shields.io/badge/蒸汽平台-white?style=for-the-badge&logo=steam&logoColor=black" style="border:0; outline:none;">
   </a>
   <a href="https://instagram.com/insomxb.66/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" style="border:0; outline:none;">
+    <img src="https://img.shields.io/badge/照片墙-white?style=for-the-badge&logo=instagram&logoColor=black" style="border:0; outline:none;">
   </a>
 </p>
 
