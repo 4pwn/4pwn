@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/蒸汽平台-white?style=for-the-badge&logo=steam&logoColor=black" style="border:0; outline:none;">
   </a>
   <a href="https://dotphish.blog" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/撰写报告-white?style=for-the-badge&logo=medium&logoColor=black" style="border:0; outline:none;">
+    <img src="https://img.shields.io/badge/撰写报告-white?style=for-the-badge&logo=firefox&logoColor=black" style="border:0; outline:none;">
   </a>
 </p>
 
